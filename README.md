@@ -1,10 +1,9 @@
 ##  👋 Olá, sou a Valéria Gomes!
 
-
--👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
--🎯 Apaixonada por TI e sempre pronta para aprender mais!
--💻 Explorando o mundo da programação, com um carinho especial por backend e estruturas de dados.
--🌱 Atualmente mergulhada no universo de C, Java, e também aprendendo frontend com HTML e CSS.
--🚀 Em busca de desafios que me façam crescer como desenvolvedora.
+-👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Dados
+-📊 Transformo números em insights e decisões estratégicas
+-💻 Experiência em Python, SQL e Power BI
+-🌱 Sempre aprendendo, testando e compartilhando projetos de análise de dados
+-🚀 Buscando desafios para crescer como profissional de dados
 
 
